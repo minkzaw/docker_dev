@@ -9,3 +9,6 @@
      
 ## Run container from the built image
      docker run -d --name <container_name> -p <ip>:<port>:<iamge_port> <image_name>:<tag>
+
+## Built image can be found in the following link
+     https://hub.docker.com/r/mkzaw/nginx
